@@ -1,0 +1,228 @@
+BasicInfo:
+  FirstName: Derek
+  LastName: Rose
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: 541-556-0697
+    - Icon: fas fa-envelope
+      Info: derek@dereksrose.com
+    - Icon: fas fa-globe
+      Info: <a href="https://dereksrose.com" target="_blank">dereksrose.com</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Eugene, Oregon, USA
+
+Profile: Over fifteen years of experience in development, solutions architecture, systems administration, IT, and product management. My passions are learning and problem solving and I'm seeking a position that will let me do that in a technical capacity. I particularly enjoy developing systems that make use of Amazon Web Services.
+
+Experience:
+  - Employer: Elm Street Technology
+    Place: Eugene, Or
+    Positions:
+      - Title: Vice President of Systems Architecture
+        Date: Jun 2020 - Present
+        Details:
+          - Oversee the ongoing IDX development.
+          - Beginning IDX Brokers transition from virtualized monolith to containerized services.
+          - Designed and am overseeing combined ETL, pipelines, auth, SRE, networking, and billing systems.
+          - Planning and implementing IT consolidation for ongoing M&A activity.
+          - Design of multi-org data lake.
+          - Overseen the successful rollout of sales-tax compliance on multiple systems.
+          - Ongoing AWS systems oversight, cost monitoring, and expansion.
+        Badges: ['AWS', 'GCP', 'Terraform', 'MySQL', 'Datadog', 'ElasticSearch', 'Couchbase', 'Avalara']
+  - Employer: IDX LLC
+    Place: Eugene, Or
+    Positions:
+      - Title: Vice President of Engineering
+        Date: 2015 - Jun 2020
+        Details:
+          - Designed and helped develop ETL v2 pulling 550+ near-realtime data sources.
+          - Gamified internal password security.
+          - Set up ELK stack based log and audit trails.
+          - Oversaw local IT infrastructure.
+          - Lead technical due diligence when IDX acquired Agent Marketing.
+          - Implemented least privilege SSO access model for AWS using Terraform.
+          - Lead technical side of the company through our acquisition by Elm Street Technology.
+        Badges: ['AWS', 'HAProxy', 'MySQL', 'ElasticSearch', 'Logstash', 'Kibana', 'Couchbase', 'Terraform']
+      - Title: Director of Engineering
+        Date: 2012 - 2015
+        Details:
+          - Tripled team size in 18 months after investment from Main Street.
+          - Designed data models and application architecture for the second, cloud native, version of IDX Broker's SaaS Application.
+          - Refactored ETL system to be more resilient against changing source data.
+          - Helped coordinate the migration of clients and oversaw sunsetting of IDX Broker v1.
+          - Modernized (for 2015) systems management and deployment with Chef.
+          - Developed logging platform using Cloudwatch and Lambda.
+        Badges: ['AWS', 'MySQL', 'Memcached', 'Chef', 'PHP', 'Ruby', 'Node.js']
+  - Employer: IDX Broker
+    Place: Eugene, Or
+    Positions:
+      - Title: Director of Engineering
+        Date: 2008 - 2012
+        Details:
+          - Moved development team to an agile methodology.
+          - Set up and trained staff on GIT based version control and build systems.
+          - Assisted in due diligence when IDX acquired Agent Evolution.
+          - Grew IDX Broker into the 4th largest real estate network.
+          - Began using AWS in 2006, developing in-house sdk as Amazon didn't offer one yet.
+          - Wrote developer interview test that was used for all hires for 10 years.
+          - Managed infrastructure and vendor costs for the bootstrapped company.
+          - Lead technical team through investments from Main Street Capital Corporation.
+          - Managed physical servers in a remote colo.
+        Badges: ['AWS', 'Code Deploy', 'GIT', 'BitBucket','AWS Code Deploy']
+      - Title: Lead Developer
+        Date: 2005 - 2008
+        Details:
+          - Designed and developed first in-house SaaS application.
+          - Designed and developed first in-house ETL system for real estate data.
+          - Developed subscription billing system.
+          - Grew and trained team from one (me) to 5+.
+        Badges: ['PHP', 'MySQL']
+  - Employer: Main Street Capital Corporation
+    Place: Houston, Tx
+    Positions:
+      - Title: Technical Consultant
+        Date: Jun & Aug 2018
+        Details:
+          - Technical diligence on a potential purchase.
+          - Presentation of diligence information to legal team.
+  - Employer: Odysys Inc
+    Place: Bend, Oregon
+    Positions:
+      - Title: Technical Consultant
+        Date: As Needed 2015 - 2019
+        Details:
+          - Advised on infrastructure improvements and cost savings.
+          - Advised on performance issues.
+          - Advised on moved to serverless infrastructure.
+          - Provided emergency disaster recovery assistance.
+        Badges: ['AWS', 'PHP', 'Node.js']
+
+Extracurriculars:
+  - Item: Toys for Tots drive at IDX
+    Description: An annual IDX tradition that I started in 2009. Resulted in over ten thousand dollars in toys purchased locally and donated.
+    Details:
+      - Monetary donations were donated from employees.
+      - All funds were matched by IDX Broker.
+      - The total sum was taken to a locally owned store to buy toys.
+      - Purchased toys were immediately donated to the Toys for Tots foundation.
+      - Amount raised grew every year along with IDX's staff size. In 2019 we purchased nearly $4,000 in toys.
+      - Missed 2020 due to Covid-19.
+  - Item: Eugene Web Developers meetups
+    Description: A popular local monthly meetup of the developer community.
+    Details:
+      - 30 - 50 in person monthly attendance (before Covid-19).
+      - Briefly served as the host.
+      - Presented several times on different topics.
+  - Item: Eugene Blockchain and Hyperledger meetups
+    Description: A rotating monthly meetup about Blockchain technologies and applications.
+    Details:
+      - Hosted
+  - Item: Lead annual IDX charity trivia team,
+    Description: Organized team participation in an annual fundraiser for <a href="http://opheliasplace.net/" target="_blank">Ophelia's Place</a>.
+    Details:
+      - Organized a team sponsored by IDX Broker for 7 consecutive years.
+      - Gathered other players and organized our expenditure.
+      - One time winner, five time second place winner.
+  - Item: IDX Tours
+    Description: IDX participated in regular community events which I would regularly attend or host.
+    Details:
+      - YPN Summits
+      - Highschool and University student tours and events
+      - Downtown Business Association tours
+  - Item: Learning Lunches
+    Description: Initiated and managed a weekly employee lunch and learn program.
+    Details:
+      - Presented at several lunches on various topics.
+      - Organized catering.
+      - Promoted participation.
+  - Item: AWS reInvent
+    Description: Amazon's annual developer conference.
+    Details:
+      - Attended Every year.
+
+Education:
+  - Course: BS in Biology
+    Place: Oregon State University
+    Date: Graduated 2005
+
+Skills:
+  - Family: Languages
+    Items:
+      - Javascript / Node.js
+      - PHP
+      - Python
+      - Ruby
+      - BASH
+  - Family: Amazon Web Services
+    Items:
+      - AES
+      - Athena
+      - CLI
+      - Cloudfront
+      - Cloudwatch
+      - Cloudwatch Logs
+      - Cloud Trail
+      - CodeDeploy
+      - DynamoDB
+      - EC2
+      - Elacticache
+      - ELB
+      - EMR
+      - GuardDuty
+      - IAM
+      - Kinesis
+      - Lambda
+      - Organizations
+      - RDS / Aurora
+      - Route53
+      - S3
+      - SNS
+      - SQS
+      - VPC
+  - Family: Database
+    Items:
+      - MySQL
+      - ElasticSearch
+      - Couchbase
+      - DynamoDB
+      - MongoDB
+      - Athena (Parquet and JSON files in S3)
+  - Family: Systems Administration
+    Items:
+      - Terraform
+      - Chef
+      - Docker
+      - Linux Systems Administration
+      - HAProxy
+      - Datadog
+      - Let's Encrypt
+      - Kibana
+      - Logstash
+      - Opsgenie
+      - Pagerduty
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Portainer
+      - Bamboo
+      - VS Code
+      - AWS
+      - Terraform
+      - Chef
+      - Vagrant
+      - VirtualBox
+      - VIM
+
+Languages:
+  - Name: AWS Solutions Architect Associate
+    Level: 2011 - 2020
+  - Name: AWS Developer Associate
+    Level: 2012 - 2021
+
+Interests:
+  - 3D Design and Printing
+  - Home Automation
+  - Virtual Assistants
+  - Electronics
+  - Trivia

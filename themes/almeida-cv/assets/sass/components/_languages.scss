@@ -1,0 +1,20 @@
+.language {
+    &__item {
+        display: table;
+        width: 100%;
+    }
+
+    &__name,
+    &__level {
+        display: block;
+        width: 100%;
+
+    }
+    &__level {
+        text-align: right;
+    }
+    &__name {
+        font-weight: 400;
+        clear: right;
+    }
+}
